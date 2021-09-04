@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.slidingpanelayout.widget.SlidingPaneLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:id="@+id/fragmentListItem"
+        android:name="jp.ac.jec.cm0120.p4_signindrawer.ListItemsFragment"/>
+
+    <FrameLayout
+        android:id="@+id/mainFrame"
+        android:layout_width="600dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:backgroundTint="#000000"/>
+
+</androidx.slidingpanelayout.widget.SlidingPaneLayout>

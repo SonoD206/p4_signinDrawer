@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40491710911",
+    "project_id": "p4signin",
+    "storage_bucket": "p4signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40491710911:android:7ccc64d6f354790d09c90a",
+        "android_client_info": {
+          "package_name": "jp.ac.jec.cm0120.p4_signindrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40491710911-34bvnfdrj6mt3dgq97vuujdmcjcjhvrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.ac.jec.cm0120.p4_signindrawer",
+            "certificate_hash": "3ee30d327ce3a6131135b6e981bf7c77fe74d4f7"
+          }
+        },
+        {
+          "client_id": "40491710911-vt2hq0iggq54p06la9ne62cem9cubg5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCl7ZQ1TS6l4iIG0QVLsZ335hzi8andPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40491710911-vt2hq0iggq54p06la9ne62cem9cubg5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
